@@ -47,7 +47,7 @@ on any Unix-like operating system to find out your user
 Then you can create a new database with:
 
 ```
-create database knexjs_tutorial;
+create database library;
 ```
 
 ## Execute database migration
